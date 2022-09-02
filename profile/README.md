@@ -5,5 +5,3 @@ Sua plataforma e-commerce de produtos personalizaveis em tempo real e em 3D, que
 
 ![alt text](https://i.ibb.co/V9QBwk6/chernolie-Logo.png)
 
-
-![alt text](https://i.ibb.co/RDD0N6J/Cherno-Edit.png)
