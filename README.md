@@ -1,2 +1,3 @@
-# .github
-Chernolie!  plataforma e-commerce de produtos personalizados, que oferece apoio aos criadores de conteudo que exporem suas artes na plataforma
+# Bem Vindo ao Chernolie !
+
+Sua plataforma e-commerce de produtos personalizaveis em tempo real e em 3D, que tambem oferece rede social de vendas dos itens criados oferecendo apoio aos criadores de conteudo com liberdade e facilidade para venderem sua Arte!
